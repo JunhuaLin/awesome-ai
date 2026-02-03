@@ -1,5 +1,7 @@
 # awesome-ai
 
+# AI大模型厂商
+- [minimaxi](https://www.minimaxi.com/) - MiniMax Agent，有免费额度的大模型。
 
 # AI使用经验
 - [认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境](https://mp.weixin.qq.com/s/CXx-0ar1EBf14vgQHHjU7A) - AI执行过程中无上下问题，该文字介绍了如何工程化管理AI上下文，自动检索上下文，自动沉淀知识，让知识从人脑沉淀到工具，让后续研发流程的边际成本更低。
