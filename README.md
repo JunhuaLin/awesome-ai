@@ -2,6 +2,7 @@
 
 # AI大模型厂商
 - [minimaxi](https://www.minimaxi.com/) - MiniMax Agent，有免费额度的大模型。
+- [huggingface](https://huggingface.co/) - 各大模型都有。
 
 # AI使用经验
 - [认知重建：Speckit 用了三个月，我放弃了——走出工具很强但用不好的困境](https://mp.weixin.qq.com/s/CXx-0ar1EBf14vgQHHjU7A) - AI执行过程中无上下问题，该文字介绍了如何工程化管理AI上下文，自动检索上下文，自动沉淀知识，让知识从人脑沉淀到工具，让后续研发流程的边际成本更低。
@@ -15,6 +16,7 @@
 
 # AI使用辅助工具
 
+- [orca](https://github.com/stablyai/orca) - Orca - 适合使用 终端 CLI 的场景，结合Claude Code使用非常丝滑，GitHub 9000+ Star。
 - [cc-switch](https://github.com/farion1231/cc-switch) - CC Switch 为你提供一个桌面应用来管理所有五个 CLI 工具。无需手动编辑配置文件，你将获得一个可视化界面，一键将供应商导入应用，一键在不同的供应商之间进行切换，内置 50+ 供应商预设、统一的 MCP, SKILLS 管理以及系统托盘即时切换功能——所有操作都基于可靠的 SQLite 数据库和原子写入机制，保护你的配置不被损坏。
 
 
